@@ -1,0 +1,1 @@
+This repository is for chat application that is created as an introduction to socket.io.
